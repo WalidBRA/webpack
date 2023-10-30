@@ -5,6 +5,7 @@ node -v          <br />
 npm -v  <br />
 **The version must be: 10.2.1**  <br />
 npm install -g aurelia-cli  <br />
+au -v <br />
 **The version of Aurelia must be: global aurelia-cli v3.0.2** <br />
 git clone https://github.com/WalidBRA/webpack.git <br />
 cd path/to/project  <br />
