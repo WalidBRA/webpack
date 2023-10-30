@@ -1,7 +1,6 @@
 # `Quick start`
 
-node -v.
-
+node -v <br />
 the version must be : 21.1.0.
 
 npm -v
