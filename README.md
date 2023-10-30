@@ -1,7 +1,9 @@
 # `Quick start`
 
 node -v.
+
 the version must be : 21.1.0.
+
 npm -v
 the version must be: 10.2.1
 npm install -g aurelia-cli
